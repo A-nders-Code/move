@@ -5,6 +5,7 @@ import shutil
 path_1 = __file__
 path_2 = os.path.dirname(path_1) + '/'
 dateityp = input("Welchen Dateityp willst du sortieren?(ohne'.'): ")
+#(Lesbarkeit)
 folder_name = dateityp
 
 # Get the list of all files and directories
